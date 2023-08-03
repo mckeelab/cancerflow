@@ -1,14 +1,14 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T19:45:08.224Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="nDAkMgwTzPFDEmZjyS6m" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T20:25:50.620Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="NdfifGv0UYtqQAJW7F_e" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1258" dy="718" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="r62edw3LymITYhODbOyO-1" value="BIOPSY / &lt;br&gt;RESECTION" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-3" target="r62edw3LymITYhODbOyO-0">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-3" value="Patient diagnosed with cancer" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="160" y="80" width="120" height="40" as="geometry" />
+        <mxCell id="r62edw3LymITYhODbOyO-1" value="BIOPSY / &lt;br&gt;RESECTION" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-19" target="r62edw3LymITYhODbOyO-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="100" as="sourcePoint" />
+            <mxPoint x="360" y="110" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-8" value="No" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-4" target="WIyWlLk6GJQsqaUBKTNV-11" edge="1">
           <mxGeometry x="0.3333" y="20" relative="1" as="geometry">
@@ -18,22 +18,16 @@
         <mxCell id="r62edw3LymITYhODbOyO-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="WIyWlLk6GJQsqaUBKTNV-11" target="r62edw3LymITYhODbOyO-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Complete Pathology analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="540" y="450" width="120" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-0" target="r62edw3LymITYhODbOyO-2">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-0" value="Tumour sample taken" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
+        <mxCell id="WIyWlLk6GJQsqaUBKTNV-11" value="Complete Pathology analysis" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=2;shadow=0;arcSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="540" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-2" target="r62edw3LymITYhODbOyO-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-2" value="Pathology lab analyses sample" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="550" y="60" width="100" height="100" as="geometry" />
+          <mxGeometry x="550" y="40" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-4" value="Suitable for genomic analysis?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r62edw3LymITYhODbOyO-4" value="Suitable for genomic analysis?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;arcSize=14;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="550" y="260" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-6" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-4" target="r62edw3LymITYhODbOyO-7">
@@ -52,7 +46,7 @@
         <mxCell id="r62edw3LymITYhODbOyO-7" value="Molecular pathology analysis" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="281" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-15" value="Yes / No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-8" target="r62edw3LymITYhODbOyO-10">
+        <mxCell id="r62edw3LymITYhODbOyO-15" value="Yes / No" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-8" target="r62edw3LymITYhODbOyO-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="740" y="580" />
@@ -60,20 +54,120 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-45" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#00CC00;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-8" target="r62edw3LymITYhODbOyO-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-8" value="Potential &lt;br&gt;germline &lt;br&gt;viariant &lt;br&gt;detected?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="690" y="440" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-10" target="r62edw3LymITYhODbOyO-11">
+        <mxCell id="r62edw3LymITYhODbOyO-13" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-10" target="r62edw3LymITYhODbOyO-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-10" value="Report generated" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r62edw3LymITYhODbOyO-10" value="Integrated &lt;br&gt;Report &lt;br&gt;generated" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="290" y="400" width="100" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-12" value="TREATMENT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-11" target="WIyWlLk6GJQsqaUBKTNV-3">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="r62edw3LymITYhODbOyO-12" value="TREATMENT" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-11" target="r62edw3LymITYhODbOyO-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="120" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-11" value="MDT decide on treatment" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="170" y="210" width="100" height="100" as="geometry" />
+          <mxGeometry x="60" y="260" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-19" value="Patient &lt;br&gt;diagnosed with &lt;br&gt;cancer" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;fillColor=#fff2cc;strokeColor=#d6b656;shadow=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="40" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-21" target="r62edw3LymITYhODbOyO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-21" value="GP / Surgeon / Oncologist / MDT consider family history" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_2;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="510" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-25" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-22" target="r62edw3LymITYhODbOyO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-22">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-22" value="Family history significant?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="70" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-24" value="Process ends" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="60" y="980" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-29" value="YES - refer&lt;br&gt;to Genetics" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-28" target="r62edw3LymITYhODbOyO-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-28" target="r62edw3LymITYhODbOyO-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-28" value="Genetics team assess family history" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="250" y="690" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-33" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-30" target="r62edw3LymITYhODbOyO-32">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-37" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-30" target="r62edw3LymITYhODbOyO-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-30" value="Meet criteria for genetic testing?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="380" y="700" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-34" style="edgeStyle=orthogonalEdgeStyle;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;rounded=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-32" target="r62edw3LymITYhODbOyO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-32" value="Recommendations for personal risk &amp;amp; family surveillance" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="150" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-36" target="r62edw3LymITYhODbOyO-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-36" value="Germline cancer panel testing" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="510" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-40" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-38" target="r62edw3LymITYhODbOyO-32">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="610" y="860" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-42" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-38" target="r62edw3LymITYhODbOyO-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-38" value="Germline&lt;br&gt;variant&lt;br&gt;detected?" style="rhombus;whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="530" y="830" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-43" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-41" target="r62edw3LymITYhODbOyO-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-41" value="Genetic counselling&lt;br&gt;Targeted surveillance&lt;br&gt;Cascade testing in family" style="whiteSpace=wrap;html=1;rounded=1;arcSize=14;strokeWidth=2;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="268" y="980" width="304" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-47" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#00CC00;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-44" target="r62edw3LymITYhODbOyO-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-44" value="Confirmatory testing in Germline lab" style="whiteSpace=wrap;html=1;strokeWidth=2;perimeterSpacing=1;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-48" value="NO" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#00CC00;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;strokeWidth=3;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-46">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="340" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="660" y="810" />
+              <mxPoint x="660" y="640" />
+              <mxPoint x="340" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-50" value="" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-46" target="r62edw3LymITYhODbOyO-49">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-46" value="Germline pathogenic variant confirmed?" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="700" y="770" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="r62edw3LymITYhODbOyO-49" value="Genetic Counsellor liaise with MDT" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="680" y="940" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
