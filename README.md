@@ -8,3 +8,4 @@ patients: ESMO Precision Medicine Working Group recommendations](https://www.ann
 ## Flow diagrams
 - [cancer genomics flow](https://app.diagrams.net/#Hmckeelab%2Fcancerflow%2Fmain%2FBasicCancerFlow.drawio)
 
+![BasicCancerFlow drawio (1)](https://github.com/mckeelab/cancerflow/assets/23620458/6ffeb4d6-3020-4846-8920-4ba65af42fde)
