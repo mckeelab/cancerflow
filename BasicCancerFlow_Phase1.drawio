@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T15:48:00.894Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="O_86ImOJo1ZWylZiIIWt" version="21.6.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T16:01:53.367Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188" etag="5yZbgMGBrzes-LtlePg5" version="21.6.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1001" dy="483" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1155" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
-        <mxCell id="r62edw3LymITYhODbOyO-1" value="BIOPSY / &lt;br&gt;RESECTION" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;fontSize=13;startArrow=classic;startFill=1;endFill=0;fontStyle=1;strokeWidth=2;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-2" target="r62edw3LymITYhODbOyO-19" edge="1">
+        <mxCell id="r62edw3LymITYhODbOyO-1" value="TUMOUR&lt;br&gt;SAMPLE" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;fontSize=13;startArrow=classic;startFill=1;endFill=0;fontStyle=1;strokeWidth=2;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-2" target="r62edw3LymITYhODbOyO-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="110" as="sourcePoint" />
             <mxPoint x="280" y="100" as="targetPoint" />
@@ -24,7 +24,7 @@
         <mxCell id="r62edw3LymITYhODbOyO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;fontSize=13;endFill=0;endSize=8;strokeWidth=2;shadow=0;startArrow=classic;startFill=1;fontStyle=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-4" target="r62edw3LymITYhODbOyO-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-2" value="Pathology lab analyses sample" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="r62edw3LymITYhODbOyO-2" value="Lab analyses sample (histopathology, ICC, molecular etc)" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="210" y="260" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-4" value="Suitable for genomic analysis?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;arcSize=14;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
