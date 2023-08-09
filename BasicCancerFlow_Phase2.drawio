@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T13:42:54.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="TEQ4OwmY6zqNCdH5oa_o" version="21.6.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-09T13:45:43.483Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.79" etag="VZomdr0hSuWVdFUD_kNV" version="21.6.6" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="1379" dy="884" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
         <mxCell id="r62edw3LymITYhODbOyO-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;fontSize=13;startArrow=classic;startFill=1;endFill=0;fontStyle=1;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-30" target="r62edw3LymITYhODbOyO-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-28" value="Genetics team assess family history" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="r62edw3LymITYhODbOyO-28" value="Genetics team assess family history &lt;b&gt;&lt;font color=&quot;#009900&quot;&gt;and negative/positive somatic/germline data&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="250" y="690" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-33" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;fontSize=13;startArrow=classic;startFill=1;endFill=0;fontStyle=1;strokeWidth=2;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-32" target="r62edw3LymITYhODbOyO-30" edge="1">
@@ -167,12 +167,6 @@
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-49" value="Genetic Counsellor liaises with MDT, contact patient / family" style="whiteSpace=wrap;html=1;strokeWidth=2;rounded=1;fontSize=11;strokeColor=#00CC00;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="670" y="980" width="140" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-56" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;shadow=0;labelBackgroundColor=default;strokeColor=#00CC00;strokeWidth=3;fontFamily=Helvetica;fontSize=14;fontColor=default;endArrow=classic;endFill=0;endSize=8;fontStyle=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r62edw3LymITYhODbOyO-55" target="r62edw3LymITYhODbOyO-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="r62edw3LymITYhODbOyO-55" value="Negative germline data &lt;br&gt;informs this process" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;fontFamily=Helvetica;fontSize=11;fontColor=default;strokeColor=#00CC00;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="380" y="655" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r62edw3LymITYhODbOyO-61" value="Green lines, symbols &amp;amp; boxes represent the &lt;b style=&quot;font-size: 19px;&quot;&gt;new process&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=19;fontColor=default;strokeColor=#00CC00;strokeWidth=5;arcSize=12;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="640" y="220" width="160" height="150" as="geometry" />
