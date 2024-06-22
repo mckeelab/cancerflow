@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-22T22:21:36.354Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="99pKVbtIsiUfTE-FC0f0" version="24.2.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-22T22:24:37.092Z" agent="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="EdneydlxzaGFup5vo1SX" version="24.2.7" type="github" pages="2">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="695" dy="493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -271,6 +271,9 @@
         <mxCell id="hXt-DK1lY1Fj1__o6OTE-1" value="Process ends" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#B9E0A5;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-2">
           <mxGeometry x="10" y="740" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="cS3_ZyRYBnCWuyrL6ZrW-3" value="PATIENT REGISTERED" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;textShadow=1;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-2">
+          <mxGeometry x="10" y="29" width="100" height="50" as="geometry" />
+        </mxCell>
         <mxCell id="g36YT8rhsYMa3pHuHRKw-3" value="MTB" style="swimlane;startSize=20;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-1">
           <mxGeometry x="140" width="120" height="810" as="geometry" />
         </mxCell>
@@ -304,8 +307,8 @@
         <mxCell id="g36YT8rhsYMa3pHuHRKw-6" value="Genetic Coun" style="swimlane;startSize=20;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-1">
           <mxGeometry x="380" width="120" height="810" as="geometry" />
         </mxCell>
-        <mxCell id="eYmkSpLNEl5vK8yNRcOd-5" value="GC contacts patient to discuss germline testing" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-6">
-          <mxGeometry x="10" y="390" width="100" height="50" as="geometry" />
+        <mxCell id="eYmkSpLNEl5vK8yNRcOd-5" value="GC contacts patient to discuss germline testing, CONSENT" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-6">
+          <mxGeometry x="10" y="390" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eYmkSpLNEl5vK8yNRcOd-22" value="Give results, arrange cascade testing etc" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-6">
           <mxGeometry x="15" y="620" width="90" height="50" as="geometry" />
@@ -345,7 +348,7 @@
         <mxCell id="eYmkSpLNEl5vK8yNRcOd-7" value="This includes RMDS &amp;amp; PMC as appropriate" style="shape=note;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;position2=0.06;size=30;position=0.44;base=20;fillColor=#fad9d5;strokeColor=#ae4132;textShadow=1;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-8">
           <mxGeometry x="10" y="30" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eYmkSpLNEl5vK8yNRcOd-16" value="Testing in lab - variant found in germline?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-8">
+        <mxCell id="eYmkSpLNEl5vK8yNRcOd-16" value="Testing in lab - variant found in germline?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-8">
           <mxGeometry x="25" y="360" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="PB774hIbTJgRv1Q6sqz4-2" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" edge="1" parent="g36YT8rhsYMa3pHuHRKw-1" source="_ztHie-JmmjU_YfWzIsF-2" target="PB774hIbTJgRv1Q6sqz4-1">
