@@ -337,8 +337,14 @@
         <mxCell id="PB774hIbTJgRv1Q6sqz4-1" value="Annotated sample received. Tumour sequencing commences" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
           <mxGeometry x="10" y="199" width="110" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="TkV0M31JswFWWJR-BCAR-8" value="NO" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="g36YT8rhsYMa3pHuHRKw-8" source="SrVyewDlU3uoMnBgW5wj-5" target="TkV0M31JswFWWJR-BCAR-7" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="TkV0M31JswFWWJR-BCAR-8" value="NO (&amp;gt;90%)" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="g36YT8rhsYMa3pHuHRKw-8" source="SrVyewDlU3uoMnBgW5wj-5" target="2Udj-ZNcWnxGe-1Kl-Qt-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="65" y="639" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="65" y="610" />
+              <mxPoint x="66" y="610" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="SrVyewDlU3uoMnBgW5wj-5" value="Potential &lt;br&gt;germline variant identified?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#006600;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
           <mxGeometry x="10" y="490" width="110" height="90" as="geometry" />
@@ -352,8 +358,8 @@
         <mxCell id="TkV0M31JswFWWJR-BCAR-5" value="Primary sequencing report generated (D49)" style="whiteSpace=wrap;html=1;rounded=0;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
           <mxGeometry x="10" y="339" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="TkV0M31JswFWWJR-BCAR-7" value="Process ends" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=1;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
-          <mxGeometry x="15" y="639" width="100" height="51" as="geometry" />
+        <mxCell id="2Udj-ZNcWnxGe-1Kl-Qt-5" value="Process ends" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#B9E0A5;" vertex="1" parent="g36YT8rhsYMa3pHuHRKw-8">
+          <mxGeometry x="10" y="659" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="PB774hIbTJgRv1Q6sqz4-2" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;" parent="1" source="_ztHie-JmmjU_YfWzIsF-2" target="PB774hIbTJgRv1Q6sqz4-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -368,7 +374,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="2Fz9pFnyrf1bxtLFpxsD-3" value="YES" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SrVyewDlU3uoMnBgW5wj-5" target="2Fz9pFnyrf1bxtLFpxsD-2" edge="1">
+        <mxCell id="2Fz9pFnyrf1bxtLFpxsD-3" value="YES (~12%)" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="SrVyewDlU3uoMnBgW5wj-5" target="2Fz9pFnyrf1bxtLFpxsD-2" edge="1">
           <mxGeometry x="-0.3591" y="-5" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -447,8 +453,10 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="cQ50PkL29jziuRS4riEQ-1" value="Report&lt;br&gt;back to MTB" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="eYmkSpLNEl5vK8yNRcOd-22" target="eYmkSpLNEl5vK8yNRcOd-18" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="cQ50PkL29jziuRS4riEQ-1" value="Report&lt;br&gt;back to MTB&lt;br&gt;&amp;nbsp;&amp;amp; encompass" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="eYmkSpLNEl5vK8yNRcOd-22" target="eYmkSpLNEl5vK8yNRcOd-18" edge="1">
+          <mxGeometry x="0.0286" y="5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="TkV0M31JswFWWJR-BCAR-2" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="eYmkSpLNEl5vK8yNRcOd-16" target="eYmkSpLNEl5vK8yNRcOd-18" edge="1">
           <mxGeometry x="-0.4118" y="30" relative="1" as="geometry">
