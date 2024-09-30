@@ -265,7 +265,7 @@
         <mxCell id="SrVyewDlU3uoMnBgW5wj-3" value="Initial treatment plan" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
           <mxGeometry x="15" y="419" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="eYmkSpLNEl5vK8yNRcOd-3" value="MDT request GC to see - rapid pathway" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
+        <mxCell id="eYmkSpLNEl5vK8yNRcOd-3" value="MDT request GC to see - rapid pathway" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=6;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
           <mxGeometry x="10" y="759" width="90" height="60" as="geometry" />
         </mxCell>
         <mxCell id="hXt-DK1lY1Fj1__o6OTE-1" value="Process ends" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;fillColor=#B9E0A5;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
@@ -274,8 +274,8 @@
         <mxCell id="cS3_ZyRYBnCWuyrL6ZrW-3" value="PATIENT REGISTERED&lt;div&gt;(Day14 from referral)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;textShadow=1;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
           <mxGeometry x="10" y="29" width="100" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="cbSpkc_TnC8vaTYj-fXT-1" value="Rx revised as per sequencing results" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
-          <mxGeometry x="10" y="585" width="100" height="60" as="geometry" />
+        <mxCell id="cbSpkc_TnC8vaTYj-fXT-1" value="Rx revised as per sequencing results&lt;br&gt;&lt;br&gt;&lt;div&gt;(eg MSI-High, BRAF WT for Genetics process as usual)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-2" vertex="1">
+          <mxGeometry x="10" y="539" width="100" height="131" as="geometry" />
         </mxCell>
         <mxCell id="g36YT8rhsYMa3pHuHRKw-3" value="MTB" style="swimlane;startSize=20;" parent="g36YT8rhsYMa3pHuHRKw-1" vertex="1">
           <mxGeometry x="140" width="120" height="1389" as="geometry" />
@@ -283,7 +283,7 @@
         <mxCell id="eYmkSpLNEl5vK8yNRcOd-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="g36YT8rhsYMa3pHuHRKw-3" source="2Fz9pFnyrf1bxtLFpxsD-2" target="eYmkSpLNEl5vK8yNRcOd-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2Fz9pFnyrf1bxtLFpxsD-2" value="MTB considers variant (D56)" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-3" vertex="1">
+        <mxCell id="2Fz9pFnyrf1bxtLFpxsD-2" value="MTB considers variant (D56)" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="g36YT8rhsYMa3pHuHRKw-3" vertex="1">
           <mxGeometry x="20" y="585" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="eYmkSpLNEl5vK8yNRcOd-20" value="NO" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="g36YT8rhsYMa3pHuHRKw-3" source="eYmkSpLNEl5vK8yNRcOd-1" target="eYmkSpLNEl5vK8yNRcOd-18" edge="1">
@@ -291,8 +291,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eYmkSpLNEl5vK8yNRcOd-1" value="for&lt;br&gt;&amp;nbsp;germline testing?" style="rhombus;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-3" vertex="1">
-          <mxGeometry x="20" y="679" width="80" height="60" as="geometry" />
+        <mxCell id="eYmkSpLNEl5vK8yNRcOd-1" value="consider&lt;br&gt;&amp;nbsp;germline&lt;br&gt;&amp;nbsp;testing?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#006600;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="g36YT8rhsYMa3pHuHRKw-3" vertex="1">
+          <mxGeometry x="10" y="679" width="100" height="91" as="geometry" />
         </mxCell>
         <mxCell id="eYmkSpLNEl5vK8yNRcOd-18" value="RESULTS REVIEWED" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;textShadow=1;" parent="g36YT8rhsYMa3pHuHRKw-3" vertex="1">
           <mxGeometry x="10" y="1209" width="100" height="50" as="geometry" />
@@ -313,21 +313,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="cbSpkc_TnC8vaTYj-fXT-2" value="NO" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="g36YT8rhsYMa3pHuHRKw-1" source="_ztHie-JmmjU_YfWzIsF-2" target="SrVyewDlU3uoMnBgW5wj-3" edge="1">
-          <mxGeometry x="-0.4023" y="45" relative="1" as="geometry">
+          <mxGeometry x="-0.4054" y="20" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="hXt-DK1lY1Fj1__o6OTE-2" style="edgeStyle=orthogonalEdgeStyle;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="g36YT8rhsYMa3pHuHRKw-1" source="eYmkSpLNEl5vK8yNRcOd-18" target="hXt-DK1lY1Fj1__o6OTE-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="TkV0M31JswFWWJR-BCAR-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="g36YT8rhsYMa3pHuHRKw-1" source="eYmkSpLNEl5vK8yNRcOd-1" target="eYmkSpLNEl5vK8yNRcOd-3" edge="1">
+        <mxCell id="TkV0M31JswFWWJR-BCAR-4" value="YES" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="g36YT8rhsYMa3pHuHRKw-1" source="eYmkSpLNEl5vK8yNRcOd-1" target="eYmkSpLNEl5vK8yNRcOd-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="g36YT8rhsYMa3pHuHRKw-8" value="GENETICS LAB" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="410" y="-1169" width="130" height="1389" as="geometry" />
         </mxCell>
         <mxCell id="8w-hkuK-flL9y8Lx-Mv8-1" value="Bioinformatic&lt;br&gt;analysis" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="g36YT8rhsYMa3pHuHRKw-8" source="TkV0M31JswFWWJR-BCAR-5" target="SrVyewDlU3uoMnBgW5wj-5" edge="1">
-          <mxGeometry x="0.7582" y="15" relative="1" as="geometry">
+          <mxGeometry x="0.5385" y="15" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -340,7 +340,7 @@
         <mxCell id="TkV0M31JswFWWJR-BCAR-8" value="NO" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="g36YT8rhsYMa3pHuHRKw-8" source="SrVyewDlU3uoMnBgW5wj-5" target="TkV0M31JswFWWJR-BCAR-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="SrVyewDlU3uoMnBgW5wj-5" value="Potential &lt;br&gt;germline variant identified?" style="rhombus;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
+        <mxCell id="SrVyewDlU3uoMnBgW5wj-5" value="Potential &lt;br&gt;germline variant identified?" style="rhombus;whiteSpace=wrap;html=1;rounded=0;strokeColor=#006600;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
           <mxGeometry x="10" y="490" width="110" height="90" as="geometry" />
         </mxCell>
         <mxCell id="eYmkSpLNEl5vK8yNRcOd-7" value="This includes RMDS &amp;amp; PMC as appropriate" style="shape=note;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Helvetica;fontSize=11;labelBackgroundColor=none;position2=0.06;size=30;position=0.44;base=20;fillColor=#fff2cc;strokeColor=#d6b656;textShadow=1;" parent="g36YT8rhsYMa3pHuHRKw-8" vertex="1">
@@ -420,7 +420,7 @@
         <mxCell id="g36YT8rhsYMa3pHuHRKw-6" value="Genetic Coun" style="swimlane;startSize=20;" parent="1" vertex="1">
           <mxGeometry x="540" y="-1169" width="120" height="1389" as="geometry" />
         </mxCell>
-        <mxCell id="eYmkSpLNEl5vK8yNRcOd-5" value="GC contacts patient to discuss germline testing, CONSENT" style="rounded=0;whiteSpace=wrap;html=1;" parent="g36YT8rhsYMa3pHuHRKw-6" vertex="1">
+        <mxCell id="eYmkSpLNEl5vK8yNRcOd-5" value="GC contacts patient to discuss germline testing, CONSENT" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#006600;strokeWidth=6;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=default;" parent="g36YT8rhsYMa3pHuHRKw-6" vertex="1">
           <mxGeometry x="10" y="829" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="2Udj-ZNcWnxGe-1Kl-Qt-2" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="g36YT8rhsYMa3pHuHRKw-6" source="eYmkSpLNEl5vK8yNRcOd-22">
@@ -472,6 +472,12 @@
         </mxCell>
         <mxCell id="2Udj-ZNcWnxGe-1Kl-Qt-1" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T99jcvMsvwQdkp81mVfc-8" target="-61GOuYFvlb8PJl5rCX5-8">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2Udj-ZNcWnxGe-1Kl-Qt-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="cbSpkc_TnC8vaTYj-fXT-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="-460" as="sourcePoint" />
+            <mxPoint x="320" y="-240" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
